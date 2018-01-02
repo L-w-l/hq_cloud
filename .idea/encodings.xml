@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hq_config_client_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hq_eureka_client_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hq_eureka_client_feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hq_server_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hq_server_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hq_server_zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hq_service" charset="UTF-8" />
+  </component>
+</project>

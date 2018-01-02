@@ -1,0 +1,11 @@
+1.hq_server_zuul 路由网关服务
+2.hq_server_eureka eureka 服务
+3.hq_server_config 全局配置中心
+4.hq_eureka_client_feign eureka + feign 实现服务调用（消费者，服务提供者）
+5.hq_service 接口 + 实体
+
+华启通用包：
+
+1.服务端加密解密 DES RSA
+2.通用返回格式：result
+3.全局工具包

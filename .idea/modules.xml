@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hq_cloud.iml" filepath="$PROJECT_DIR$/hq_cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hq_config_client_demo/hq_config_client_demo.iml" filepath="$PROJECT_DIR$/hq_config_client_demo/hq_config_client_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hq_eureka_client_demo/hq_eureka_client_demo.iml" filepath="$PROJECT_DIR$/hq_eureka_client_demo/hq_eureka_client_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hq_eureka_client_feign/hq_eureka_client_feign.iml" filepath="$PROJECT_DIR$/hq_eureka_client_feign/hq_eureka_client_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hq_server_config/hq_server_config.iml" filepath="$PROJECT_DIR$/hq_server_config/hq_server_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hq_server_eureka/hq_server_eureka.iml" filepath="$PROJECT_DIR$/hq_server_eureka/hq_server_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hq_server_zuul/hq_server_zuul.iml" filepath="$PROJECT_DIR$/hq_server_zuul/hq_server_zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hq_service/hq_service.iml" filepath="$PROJECT_DIR$/hq_service/hq_service.iml" />
+    </modules>
+  </component>
+</project>

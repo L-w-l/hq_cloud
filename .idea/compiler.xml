@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hq_config_client_demo" />
+        <module name="hq_config_server" />
+        <module name="hq_confing_server" />
+        <module name="hq_eureka_client_demo" />
+        <module name="hq_eureka_client_feign" />
+        <module name="hq_eureka_server" />
+        <module name="hq_server_config" />
+        <module name="hq_server_eureka" />
+        <module name="hq_server_zuul" />
+        <module name="hq_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hq_cloud" target="1.8" />
+      <module name="hq_config_client_demo" target="1.8" />
+      <module name="hq_config_server" target="1.8" />
+      <module name="hq_confing_server" target="1.8" />
+      <module name="hq_eureka_client_demo" target="1.8" />
+      <module name="hq_eureka_client_feign" target="1.8" />
+      <module name="hq_eureka_server" target="1.8" />
+      <module name="hq_server_config" target="1.8" />
+      <module name="hq_server_eureka" target="1.8" />
+      <module name="hq_server_zuul" target="1.8" />
+      <module name="hq_service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
